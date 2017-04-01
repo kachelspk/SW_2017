@@ -1,0 +1,15 @@
+components\softdevice\s110\hex\main.o: main.c
+components\softdevice\s110\hex\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+components\softdevice\s110\hex\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+components\softdevice\s110\hex\main.o: components\libraries\util\nordic_common.h
+components\softdevice\s110\hex\main.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\nrf.h
+components\softdevice\s110\hex\main.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\nrf51.h
+components\softdevice\s110\hex\main.o: components\toolchain\gcc\core_cm0.h
+components\softdevice\s110\hex\main.o: components\toolchain\gcc\core_cmInstr.h
+components\softdevice\s110\hex\main.o: components\toolchain\gcc\core_cmFunc.h
+components\softdevice\s110\hex\main.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\system_nrf51.h
+components\softdevice\s110\hex\main.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\nrf51_bitfields.h
+components\softdevice\s110\hex\main.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\nrf51_deprecated.h
+components\softdevice\s110\hex\main.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.11.1\Device\Include\compiler_abstraction.h
+components\softdevice\s110\hex\main.o: components\libraries\util\app_error.h
+components\softdevice\s110\hex\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
